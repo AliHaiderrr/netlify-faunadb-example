@@ -1,4 +1,4 @@
-deployed link here: https://elated-nobel-e8180a.netlify.app
+deployed link here: https://optimistic-mestorf-d1e5e6.netlify.app
 
 
 # Netlify + FaunaDB &nbsp;&nbsp;&nbsp;<a href="https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-faunadb-example&stack=fauna"><img src="https://www.netlify.com/img/deploy/button.svg"></a>
